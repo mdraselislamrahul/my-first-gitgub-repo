@@ -6,3 +6,31 @@
 .heading p {
     color: rgb(8, 97, 67);
 }
+
+.banner {
+    display: flex;
+    margin-top: 50px;
+}
+
+.banner img {
+    height: 500px;
+    width: 500px;
+}
+
+.banner .text {
+    padding: 50px;
+}
+
+.banner .text h3 {
+    color: rgb(29, 179, 238);
+    font-size: 30px;
+    text-shadow: 4px 0px rgb(104, 102, 102);
+}
+
+.banner .text strong {
+    color: crimson;
+}
+
+.banner .text p {
+    color: rgb(8, 97, 67);
+}
